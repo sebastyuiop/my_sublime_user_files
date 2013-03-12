@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AngularJS (CoffeeScript)",
+		"BeautifyRuby",
+		"Capybara Snippets",
+		"CoffeeScript",
+		"Cucumber",
+		"DetectSyntax",
+		"GitGutter",
+		"Github Tools",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SCSS",
+		"SublimeCodeIntel",
+		"Theme - Pseudo OSX",
+		"Theme - Soda"
+	]
+}
