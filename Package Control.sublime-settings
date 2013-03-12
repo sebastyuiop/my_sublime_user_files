@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"AngularJS (CoffeeScript)",
 		"BeautifyRuby",
 		"Capybara Snippets",
@@ -15,6 +16,7 @@
 		"SCSS",
 		"SublimeCodeIntel",
 		"Theme - Pseudo OSX",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
 	]
 }
